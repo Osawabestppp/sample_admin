@@ -2,4 +2,4 @@
 1. Open Source Tree
 2. Click [プル] button and get files from GitHub
 3. Open file on Local
----- test pull
+4.  Edit and save
